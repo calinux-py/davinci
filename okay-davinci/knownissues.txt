@@ -1,0 +1,4 @@
+davinci will repeat search greeting "im on it/let me explore that" when disatified with a prompt. need to fix so it doesnt repeat this
+
+
+occasionally davinci will not respond or confirm when a user responds with "yes" in the prompt_satisfaction function
