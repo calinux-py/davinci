@@ -6,4 +6,4 @@ https://www.python.org/
 Open powershell in windows and run the following command:
 
 
-pip3 install speechrecognition pyttsx3 openai elevenlabs pygame
+pip3 install speechrecognition pyttsx3 openai elevenlabs pygame pyaudio
