@@ -109,7 +109,8 @@ def listen_for_trigger():
             pass
 
         return False
-    except:
+    except Exception:
+        return False
         listen_for_trigger()
 
 def transcribe_speech():
