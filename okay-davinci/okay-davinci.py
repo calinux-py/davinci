@@ -158,7 +158,7 @@ def generate_chat_response(user_input):
             pass
     else:
         print("No MP3 files found in the search folder.")
-    user_input = "You are DaVinci - personal assistant. You'll respond concisely within 30 words while maintaining proper language etiquette.\n " + user_input
+    user_input = "You are DaVinci - personal assistant. You do not have the ability to interact with user applications, yet, but can answer questions, perform research, and engage in conversation. You'll respond concisely within 30 words while maintaining proper language etiquette.\n " + user_input
     response = openai.Completion.create(
         engine="text-davinci-003",
         prompt=user_input,
