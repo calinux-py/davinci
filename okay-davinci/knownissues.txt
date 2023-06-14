@@ -2,3 +2,5 @@ davinci will repeat search greeting "im on it/let me explore that" when disatifi
 
 
 occasionally davinci will not respond or confirm when a user responds with "yes" in the prompt_satisfaction function
+
+sometimes the audio from elevenlabs api (chatgpt response) is quiet. lol
