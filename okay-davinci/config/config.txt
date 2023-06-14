@@ -1,0 +1,2 @@
+elevenlabs.api_key='ELEVENLABS API HERE'
+openai.api_key='OPENAI CHATGPT API HERE'
