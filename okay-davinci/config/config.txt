@@ -1,2 +1,2 @@
-elevenlabs.api_key='1cc5ad7279217ee6cc943da6ee4a90b8'
-openai.api_key='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'
+elevenlabs.api_key='ELEVENLAGS API HERE'
+openai.api_key='OPENAI CHATGPT API HERE'
