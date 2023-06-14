@@ -8,7 +8,7 @@ This script is a voice-based personal assistant powered by OpenAI's ChatGPT. It 
 | Section     |
 |-------------|
 | [Program Information] Personal Assistant      |
-| [Installation] See Below                            |
+| [Installation] See Below                      |
 | [Usage] See Below                             |
 | [Contributing] N/A                            |
 | [License] No commercial use                   |
@@ -21,7 +21,7 @@ This script is a voice-based personal assistant powered by OpenAI's ChatGPT. It 
 | **Date**    | 6/14/2023                      |
 | **Language**| Python                         |
 | **OS**      | Windows 11                     |
-| **Version** | v.04                          |
+| **Version** | v.04                           |
 
 
 ---------------------------------------------------------------------------------------------------------
